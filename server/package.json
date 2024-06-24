@@ -13,6 +13,9 @@
   "dependencies": {
     "cors": "^2.8.5",
     "express": "^4.19.2",
+    "mongoose": "^8.4.3",
+    "node": "^20.15.0",
+    "require": "^2.4.20",
     "socket.io": "^4.7.5"
   },
   "devDependencies": {
